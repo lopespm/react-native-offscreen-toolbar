@@ -1,0 +1,53 @@
+{
+  "name": "react-native-offscreen-toolbar",
+  "version": "1.0.10",
+  "description": "Component which animates the toolbar off-screen while scrolling, a material design pattern",
+  "main": "src/index.js",
+  "files": [
+    "./src/index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lopespm/react-native-offscreen-toolbar.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ui",
+    "component",
+    "toolbar",
+    "navbar",
+    "header",
+    "material",
+    "material-design"
+  ],
+  "author": "Pedro Lopes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lopespm/react-native-offscreen-toolbar/issues"
+  },
+  "homepage": "https://github.com/lopespm/react-native-offscreen-toolbar",
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.0.0",
+    "react-native": ">=0.50.0"
+  },
+  "devDependencies": {
+    "react": "^16.0.0",
+    "react-native": "^0.50.0",
+    "babel-eslint": "^8.1.2",
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1"
+  }
+}

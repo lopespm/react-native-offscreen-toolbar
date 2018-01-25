@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "react-native-offscreen-toolbar example",
+    "sdkVersion": "25.0.0",
+    "androidStatusBar": {
+      "backgroundColor": "#0288D1"
+    }
+  }
+}
